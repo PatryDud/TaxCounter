@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-public class MainActivity extends AppCompatActivity {
+public class MenuGlowne extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
